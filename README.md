@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+Snowflake dbt Projects
+
 ### Objective
 
 Repository to contain dbt code
